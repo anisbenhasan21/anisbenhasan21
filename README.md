@@ -25,4 +25,5 @@ Professional jenior Technician specializing in **Telecommunications and Informat
 * **Location:** Sousse, Tunisia
 * **Phone number:** 54264192
 * **Email:** anisbenhasan21@gmail.com
+
 *Always striving to build fast, smooth, and highly optimized technical environments!*
