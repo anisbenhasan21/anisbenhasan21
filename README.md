@@ -23,5 +23,6 @@ Professional jenior Technician specializing in **Telecommunications and Informat
 ### 🔗 Let's Connect!
 * **LinkedIn:** [Anis Ben Hasan]www.linkedin.com/in/anis-ben-hasan-a37156404
 * **Location:** Sousse, Tunisia
-
+* **Phone number:** 54264192
+* **Email:** anisbenhasan21@gmail.com
 *Always striving to build fast, smooth, and highly optimized technical environments!*
