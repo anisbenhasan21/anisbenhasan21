@@ -21,7 +21,7 @@ Professional jenior Technician specializing in **Telecommunications and Informat
 ---
 
 ### 🔗 Let's Connect!
-* **LinkedIn:** [Anis Ben Hasan](https://www.linkedin.com/in/anis-ben-hasan)
+* **LinkedIn:** [Anis Ben Hasan]www.linkedin.com/in/anis-ben-hasan-a37156404
 * **Location:** Sousse, Tunisia
 
 *Always striving to build fast, smooth, and highly optimized technical environments!*
